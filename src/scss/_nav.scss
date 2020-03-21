@@ -56,6 +56,10 @@
     background-color:  rgba($heading-color, .9) ;
     color:  $accent-color;
   }
+
+  .dropdown-item a{
+    font-size: 17px;
+  }
   .btn:focus{
         box-shadow: none;
       }
@@ -231,8 +235,8 @@
   bottom: 0;
   z-index: 998;
   background: rgba($heading-color, 0.9);
-  left: -260px;
-  width: 260px;
+  left: -300px;
+  width: 300px;
   overflow-y: auto;
   transition: 0.4s;
 
@@ -275,7 +279,9 @@
         padding-left: 30px;
       }
     }
-
+    .btn-group a{
+      font-size: 14px;
+    }
     .menu-has-children i {
       position: absolute;
       right: 0;
