@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077a99a4-642b-435a-902a-31dcbb55e501" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/organizing-committee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/_organizing-committee.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/organizing-committee.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/organizing-committee.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/speaker-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/speaker-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parts/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/parts/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parts/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/intro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parts/speakers-section.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/speakers-section.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parts/venue-section.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/venue-section.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_nav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/speaker-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/speaker-details.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +101,7 @@
       <workItem from="1584682093100" duration="3973000" />
       <workItem from="1584708512587" duration="2747000" />
       <workItem from="1584772032973" duration="6066000" />
+      <workItem from="1584946294764" duration="3760000" />
     </task>
     <servers />
   </component>

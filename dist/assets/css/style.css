@@ -1885,3 +1885,28 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 15px;
   margin-bottom: 10px;
 }
+
+/*--------------------------------------------------------------
+# Conference History Section
+--------------------------------------------------------------*/
+#history-details {
+  padding: 60px 0;
+}
+
+.details h2 {
+  color: #112363;
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.details p {
+  color: #4d4d4d;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.color-theme {
+  color: #fff !important;
+  background-color: #0e1b4d !important;
+}
