@@ -2,9 +2,11 @@
 # General
 --------------------------------------------------------------*/
 body {
+  margin-top: 0;
   background: #fff;
   color: $text-color;
   font-family: $text-font;
+  min-height: 100%;
 }
 
 a {
