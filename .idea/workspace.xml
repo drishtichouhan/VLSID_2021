@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077a99a4-642b-435a-902a-31dcbb55e501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/conference-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/conference-history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/organizing-committee.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/organizing-committee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/speaker-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/speaker-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conference-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/conference-history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/organizing-committee.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizing-committee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parts/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parts/gallery-section.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/gallery-section.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parts/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/speaker-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/speaker-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist.whtt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fade.gif" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +98,7 @@
       <workItem from="1584682093100" duration="3973000" />
       <workItem from="1584708512587" duration="2747000" />
       <workItem from="1584772032973" duration="6066000" />
-      <workItem from="1584946294764" duration="13392000" />
+      <workItem from="1584946294764" duration="13671000" />
     </task>
     <servers />
   </component>
