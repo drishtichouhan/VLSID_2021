@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077a99a4-642b-435a-902a-31dcbb55e501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/backblue.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist.whtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/conference-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/conference-history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/organizing-committee.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/organizing-committee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/speaker-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/speaker-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vlsid-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vlsid-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parts/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +105,8 @@
       <workItem from="1584682093100" duration="3973000" />
       <workItem from="1584708512587" duration="2747000" />
       <workItem from="1584772032973" duration="6066000" />
-      <workItem from="1584946294764" duration="13671000" />
+      <workItem from="1584946294764" duration="13796000" />
+      <workItem from="1585027549583" duration="2402000" />
     </task>
     <servers />
   </component>
