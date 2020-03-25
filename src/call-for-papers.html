@@ -1,0 +1,22 @@
+{% extends "template.html" %}
+
+{% set page ='submission' %}
+
+{% block meta %}
+<title>Call for Papers - Embedded & VLSI Design Conference</title>
+<meta content="" name="descriptison">
+<meta content="" name="keywords">
+{% endblock %}
+
+{% block content %}
+<main id="main" class="main-page">
+  {% include "parts/submit.html" %}
+  <br>
+  {% include "parts/regular_papers.html" %}
+  {% include "parts/tutorials.html" %}
+  {% include "parts/Intel_sys_des.html" %}
+  {% include "parts/Efficient_component_design.html" %}
+  {% include "parts/nano_tech.html" %}
+</main>
+
+{% endblock %}

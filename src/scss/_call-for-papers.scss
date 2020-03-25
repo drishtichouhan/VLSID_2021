@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------
+# Call For Papers
+--------------------------------------------------------------*/
+
+#submit {
+    padding: 30px 0 30px 0;
+  p{
+    font-size: 19px;
+    @media (max-width: 991px) {
+      font-size: 16px;
+    }
+  }
+  ul{
+    @media (max-width: 991px) {
+      padding-left: 10px;
+    }
+
+  }
+  li{
+    font-size: 18px;
+    margin-bottom: 8px;
+    @media (max-width: 991px) {
+      font-size: 16px;
+    }
+  }
+}
+
+#nano-tech {
+  .section-header h2{
+    @media (max-width: 991px) {
+      font-size: 25px;
+    }
+  }
+}
+
+#intel_sys{
+  .section-header h2{
+    @media (max-width: 991px) {
+      font-size: 25px;
+    }
+  }
+}
+
+#effi-compo{
+  .section-header h2{
+    @media (max-width: 991px) {
+      font-size: 25px;
+    }
+  }
+}
