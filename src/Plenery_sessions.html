@@ -1,0 +1,202 @@
+{% extends "template.html" %}
+
+{% set page = 'Speakers' %}
+
+{% block meta %}
+<head>
+<title>Plenary Sessions</title>
+<style>
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div.polaroid {
+  width: 30%;
+  height: 40%;
+  background-color: white;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+</style>
+<meta content = "" name="description">
+<meta content = "" name="keywords">
+<link rel="stylesheet" href="">
+{% endblock %}
+
+{% block content %}
+
+<main id="main" class="main-page">
+
+<!----Keynotes Speakers Section----->
+
+	<section id="speakers-details" class="wow fadeIn">
+      <div class="container">
+        <div class="section-header">
+          <h2 style="font-size: 50px">Plenary Sessions</h2>
+          
+        </div>
+        <h1 align=" center"style="border : red dotted 1px ; border-radius: 20px 20px 20px 20px;color: #2471A3; font-size: 50px;"><b>Plenary Session 1 : A.I VLSI</b></h1>
+      
+      </br>
+      </br>
+
+
+      <h3 align="center"><b>Accelerating Deep Learning with Tensor Processing Units</b></h3><br>
+      <h3 align="left"style="color:black">Abstract:</h3>
+      <p align="justify"style="color:grey; font-size:20px">Google’s Tensor Processing Unit (TPU), first deployed in 2015, provides services today for more than one billion people and provides more than an order of magnitude improvement in performance and performance/W compared to contemporary platforms. Inspired by the success of the first TPU for neural network inference, Google developed multiple generations of machine learning supercomputers for neural network training that allow near linear scaling of ML workloads running on TPUv2 and TPUv3 processors. TPUs extend research frontiers and benefit a growing number of Google services.</p>
+      <div class="polaroid">
+      <img  src="assets/img/01-difficult-women-jk-rowling.jpg" alt="Speaker 1" width="100%" height="100%"class="img-fluid" style="border-radius:4px;" align="center">
+        <div class="container">
+        <p style="font-size: 30px">J.K.Rowling</p>
+        </div>
+        
+      </div>
+      <h3 style="color:black; position:relative;left:80">Speaker's Bio</h3><p align="justify" style="color:grey; font-size:20px;"><b>Rowling</b> leads system architecture definition, co-design, and performance optimization for Google TPUs informing the strategic direction for Accelerators and Machine Learning Platforms at Google. He has an MS and PhD in Electrical Engineering from Stanford University and a BS in Electrical and Computer Engineering from Carnegie Mellon University.</p>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      
+        <hr align="left" width="100%" style="color:red; height:40px" >
+      
+      </br>
+      </br>
+
+
+      <h3 align="center"><b>Machine Learning on Social Network Platforms</b></h3><br>
+      <h3 align="left"style="color:black">Abstract:</h3>
+      <p align="justify"style="color:grey; font-size:20px">Social networks have been deeply woven into our everyday life. These Internet platforms host a plethora of real-time services to keep people connected, provide customized information to users, and preserve information transparency. Underneath their infrastructure, the adoption of Machine Learning (ML) techniques is rapidly becoming omnipresent in both datacenters and end users’ devices, steering a rich feature set to enhance the effectiveness of users’ communication and to improve the quality of online experiences. Meanwhile, to achieve these objectives, ML can consume enormous computing resources and require meticulous resource design, provisioning, and management. In this talk, I will share our vision on the computation technologies and acceleration strategy at Facebook’s infrastructure, in particular, the state-of-the-art of our machine learning approaches on production-scale DNN-based personalized recommendation models for content ranking. Moreover, I will discuss the computing and privacy challenges lying ahead from the perspective of a social network service provider.</p>
+      <div class="polaroid">
+      <img  src="assets/img/01-difficult-women-jk-rowling.jpg" alt="Speaker 1" width="100%" height="100%"class="img-fluid" style="border-radius:4px;" align="center">
+        <div class="container">
+        <p style="font-size: 30px">J.K.Rowling</p>
+        </div>
+        
+      </div>
+      <h3 style="color:black; position:relative;left:80">Speaker's Bio</h3><p align="justify"style="color:grey; font-size:20px;"><b>Rowling</b> leads system architecture definition, co-design, and performance optimization for Google TPUs informing the strategic direction for Accelerators and Machine Learning Platforms at Google. He has an MS and PhD in Electrical Engineering from Stanford University and a BS in Electrical and Computer Engineering from Carnegie Mellon University.</p>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+       <h1 align=" center"style="border : red dotted 1px ; border-radius: 20px 20px 20px 20px;color: #2471A3; font-size: 50px;"><b>Plenary Session 2 : A.I VLSI</b></h1><br><br>
+       <h3 align="left" style="font-size: 40px"><u><b>Moderator:</b></u></h3>
+        <div class="polaroid">
+      <img  src="assets/img/01-difficult-women-jk-rowling.jpg" alt="Speaker 1" width="100%" height="100%"class="img-fluid" style="border-radius:4px;" align="center">
+        <div class="container">
+        <p style="font-size: 30px">J.K.Rowling</p>
+        </div>
+        
+      </div>
+      <br>
+      <br>
+      <br>
+      <h3 align="left" style="font-size: 40px"><u><b>Panelists:</b></u></h3>
+      <div class="responsive">
+  <div class="gallery">
+   
+      <img src="assets/img/speakers/1.jpg" alt="Cinque Terre" width="600" height="400">
+    
+    <div class="desc">Mohit jain</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    
+      <img src="assets/img/speakers/2.jpg" alt="Forest" width="600" height="400">
+    
+    <div class="desc">Nishank Siddharth</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    
+      <img src="assets/img/speakers/3.jpg" alt="Northern Lights" width="600" height="400">
+    
+    <div class="desc">Krishna Pande</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    
+      <img src="assets/img/speakers/4.jpg" alt="Mountains" width="600" height="400">
+    
+    <div class="desc">Tarun Uba</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+<br>
+<br>
+<br>
+<br>
+<h1 align=" center"style="border : red dotted 1px ; border-radius: 20px 20px 20px 20px;color: #2471A3; font-size: 50px;"><b>Plenary Session 3 : A.I VLSI</b></h1><br><br>
+  
+  <img src="assets/img/Startup-Forum-page-001.jpg" alt="Mountains" width="800" height="800">
+    </div>
+
+
+        
+
+
+      
+    </section>
+  </main>
+  {% endblock %}
+
+        
